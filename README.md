@@ -1,9 +1,12 @@
 # Bike-shearing-demand-predication-ML-regression-project
 This project will be performed with the help of Supervised Linear Regression model. We will be performing basic check on the data for any errors followed by EDA and at last we will train our Machine Learning model on the data to predict outputs for new inputs provided.
+
 Problem statement
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes
+
 Introducation
 We have been provided with the bike rental demand data of 2017 December to November 2018 (1 year total), in order to perform supervised liner regression and identify the relationships between different variables. The data includes information on the number of bike rentals, the weather conditions, and the day of the week. The goal is to use this data to predict the demand for bike rentals in the future.
+
 Feature Description
 Date - Date on which the bike was rented(year-month-day).
 
