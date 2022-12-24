@@ -85,15 +85,23 @@ Wind Speed(m/s) at which minimum bikes were rented is 6.9 m/s.
 
 ML conclusion:**We performend model training on diffrent models such as :-**
 
-Linear Regression
-Lasso Regression
-Ridge Regression
-Elasticnet Regression
-Polynomial Regression
-Decision Tree Regression
-Random Forest Regression
-Gradient Boosting Regression
-Xtreme GB Regression
+1)Linear Regression
+
+2)Lasso Regression
+
+3)Ridge Regression
+
+4)Elasticnet Regression
+
+5)Polynomial Regression
+
+6)Decision Tree Regression
+
+7)Random Forest Regression
+
+8)Gradient Boosting Regression
+
+9)Xtreme GB Regression
 
 1. Most important features for decision tree regressor are temperature, functioning-day-No and humidity.
 
