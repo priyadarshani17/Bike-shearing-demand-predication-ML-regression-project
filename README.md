@@ -82,6 +82,7 @@ Wind Speed(m/s) at which minimum bikes were rented is 6.9 m/s.
 16. We have only 3.5% of total rented bikes count on Holiday, majority of bikes were rented on working days(not-holiday). 
 
 17. Maximum bikes were rented on Friday(15.4%), On second place we have Wednesday(15.0%) and than Monday(14.8%). 
+
 ML conclusion:**We performend model training on diffrent models such as :-**
 
 Linear Regression
