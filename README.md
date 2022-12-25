@@ -24,7 +24,7 @@ Visibility - How far is the visibility (*10m).
 
 Dew point temperature - The dew point is the temperature the air needs to be cooled at constant pressure to in order to achieve a relative humidityof 100% (°C).
 
-Solar radiation - Solar radiation is the energy recieved on an area on earth from the Sun (MJ/m²).
+Solar radiation - Solar radiation is the energy recieved on an area on earth from the Sun (MJ/m²). 
 
 Rainfall - Measure of Rainfall (mm).
 
